@@ -1,4 +1,4 @@
-# lavaan_helper_functions
+# Helper functions for implementing structural equation models in R using the lavaan package
 
 This repository provides helper functions to:
 1) label all structural regression coefficients (`~`) in a lavaan model using Excel-style labels (`a`, `b`, …, `aa`, …),
