@@ -35,4 +35,9 @@ For each selected outcome `Y`:
 
 ```r
 install.packages(c("lavaan", "igraph", "stringr"))
+```
+## Citation
 
+If you use this code in published work, please cite the associated DOI:
+
+> Weller, D. (2026). *lavaan_helper_functions*. GitHub repository. DOI: 10.5281/zenodo.18500750
